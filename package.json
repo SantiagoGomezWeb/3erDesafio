@@ -6,7 +6,6 @@
   "name": "3erdesafio",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
@@ -15,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGomezWeb/3erDesafio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SantiagoGomezWeb/3erDesafio/issues"
+  },
+  "homepage": "https://github.com/SantiagoGomezWeb/3erDesafio#readme",
   "description": ""
 }
